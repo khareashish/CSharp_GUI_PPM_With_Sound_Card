@@ -1,0 +1,11 @@
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.Form1.resources
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.Properties.Resources.resources
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.csproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\bin\Debug\Sound.exe
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\bin\Debug\Sound.pdb
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\bin\Debug\SlimDX.dll
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\bin\Debug\SlimDX.pdb
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\bin\Debug\SlimDX.xml
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.exe
+C:\Users\Ashish\Desktop\C Sharp\Sound\Sound\obj\Debug\Sound.pdb
